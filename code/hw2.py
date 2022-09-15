@@ -1,0 +1,7 @@
+l1 = eval(input('请输入一个自然数：'))
+l1bin = bin(l1)
+l1oct = oct(l1)
+l1hex = hex(l1)
+print(l1bin)
+print(l1oct)
+print(l1hex)
